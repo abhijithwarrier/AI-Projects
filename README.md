@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the **“AI with Python”** series – a practical and beginner-friendly collection of Python scripts shared weekly on [Instagram](https://www.instagram.com/python_scripts/).
 
-## 📌 What is This?
+## 📌 What Is This?
 
 This repo is designed to help you:
 - Learn core concepts of **AI, machine learning**, and **data preprocessing**
@@ -25,7 +25,7 @@ This repository contains a curated set of beginner-to-intermediate level Python 
 
 ---
 
-## 📚 How to Use?
+## 📚 How To Use?
 
 1. Clone this repo or download individual notebooks  
 2. Open in **Jupyter Notebook / JupyterLab**  
